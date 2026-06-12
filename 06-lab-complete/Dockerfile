@@ -25,9 +25,12 @@ WORKDIR /app
 # Copy packages từ builder
 COPY --from=builder /root/.local /home/agent/.local
 
-# Copy application
+# Copy application, source code, and student database
 COPY app/ ./app/
 COPY utils/ ./utils/
+COPY src/ ./src/
+COPY data/ ./data/
+COPY database_master.csv .
 
 RUN chown -R agent:agent /app
 

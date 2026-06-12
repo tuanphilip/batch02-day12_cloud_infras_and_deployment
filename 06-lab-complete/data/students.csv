@@ -1,0 +1,16 @@
+student_id,name,email,points,subject,date_updated
+S001,Alice Johnson,alice.johnson@school.edu,92,Mathematics,2024-12-10
+S002,Bob Smith,bob.smith@school.edu,78,Mathematics,2024-12-09
+S003,Charlie Brown,charlie.brown@school.edu,85,Physics,2024-12-10
+S004,Diana Prince,diana.prince@school.edu,95,Chemistry,2024-12-11
+S005,Eve Davis,eve.davis@school.edu,45,Mathematics,2024-12-08
+S006,Frank Wilson,frank.wilson@school.edu,88,Physics,2024-12-10
+S007,Grace Lee,grace.lee@school.edu,72,Chemistry,2024-12-09
+S008,Henry Zhang,henry.zhang@school.edu,91,Mathematics,2024-12-11
+S009,Iris Anderson,iris.anderson@school.edu,55,Physics,2024-12-07
+S010,John Smith,john.smith@school.edu,82,Chemistry,2024-12-10
+S011,John Smith,john.smith.jr@school.edu,76,Mathematics,2024-12-10
+S012,Karen Martinez,karen.martinez@school.edu,100,Physics,2024-12-11
+S013,Liam O'Brien,liam.obrien@school.edu,,Mathematics,2024-12-06
+S014,Mona Lisa,mona.lisa@school.edu,48,Chemistry,2024-12-10
+S015,Noah Black,noah.black@school.edu,67,Physics,2024-12-11
