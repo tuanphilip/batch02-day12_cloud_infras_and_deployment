@@ -7,7 +7,8 @@ services:
   - type: web
     name: ai-agent-production
     runtime: docker
-    rootDir: 06-lab-complete
+    dockerContext: 06-lab-complete
+    dockerfilePath: 06-lab-complete/Dockerfile
     region: singapore
     plan: free
     healthCheckPath: /health
